@@ -1,1 +1,1 @@
-# Final Project for DS1001 Introduction to Data Science
+# Final Project for Introduction to Data Science
